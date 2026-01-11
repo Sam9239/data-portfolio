@@ -1,0 +1,19 @@
+# Data (do not upload)
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.parquet
+*.sqlite
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
